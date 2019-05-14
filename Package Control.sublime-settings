@@ -1,0 +1,45 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Anaconda",
+		"Bracketeer",
+		"BracketFlasher",
+		"BracketGuard",
+		"BracketHighlighter",
+		"CloudFormation Validation",
+		"Git",
+		"GitSavvy",
+		"Jenkinsfile",
+		"JSON-Template",
+		"JSONComma",
+		"JSONLint",
+		"JsonTree",
+		"Markdown Extended",
+		"MarkdownComplements",
+		"MarkdownEditing",
+		"MarkdownWriter",
+		"Open URL",
+		"Package Control",
+		"Python 3",
+		"Python PEP8 Autoformat",
+		"RainbowBrackets",
+		"SublimeLinter-contrib-cloudformation",
+		"Super-Awesome Paste",
+		"Tabify",
+		"Table Cleaner",
+		"Terrafmt",
+		"Terraform",
+		"Theme - Afterglow",
+		"Theme - Bamboo",
+		"Theme - Curiosity",
+		"Theme - Darkmatter",
+		"Theme - DC",
+		"Virtualenv"
+	]
+}
